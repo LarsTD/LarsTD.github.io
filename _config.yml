@@ -12,9 +12,8 @@ description: > # this means to ignore newlines until "baseurl:"
  This website is made for an assignment by Dutchsec.
  This is a test website but it may be an actual site later.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://larstd.github.io" # the base hostname & protocol for your site
+github_username:  LarsTD
 
 # Build settings
 markdown: kramdown
