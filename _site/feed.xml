@@ -4,10 +4,10 @@
     <title>Website of Dutchsec intern LarsTD</title>
     <description>This website is made for an assignment by Dutchsec. This is a test website but it may be an actual site later.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 19 Dec 2018 13:55:19 +0100</pubDate>
-    <lastBuildDate>Wed, 19 Dec 2018 13:55:19 +0100</lastBuildDate>
+    <link>http://larstd.github.io/</link>
+    <atom:link href="http://larstd.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 19 Dec 2018 14:24:04 +0100</pubDate>
+    <lastBuildDate>Wed, 19 Dec 2018 14:24:04 +0100</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Wed, 19 Dec 2018 13:23:45 +0100</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2018/12/19/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2018/12/19/welcome-to-jekyll.html</guid>
+        <link>http://larstd.github.io/jekyll/update/2018/12/19/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://larstd.github.io/jekyll/update/2018/12/19/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
